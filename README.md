@@ -1,6 +1,8 @@
 # my-github-app
 
-A simple app using the public GitHub API to show information to the person using it
+A simple app that allows users to search for people on GitHub by username and view information about them.
+
+Try [using the app](https://mdillemuth.github.io/my-github-app/) and finding yourself!
 
 ![showcase](img/showcase.gif)
 
