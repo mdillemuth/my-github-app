@@ -5,5 +5,7 @@ A simple app using the public GitHub API to show information to the person using
 ### Tools Used
 
 - Parcel
+- npm
+  - axios
 - GitHub Public API
 - Browser-Sync
